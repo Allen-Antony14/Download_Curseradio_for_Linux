@@ -1,0 +1,26 @@
+Using APT with PPA Repository:
+Add the WebUpd8 PPA repository:
+
+
+sudo add-apt-repository ppa:nilarimogard/webupd8
+Install Curseradio:
+
+
+sudo apt install curseradio
+Directly from GitHub Repository:
+Clone the GitHub repository:
+
+git clone https://github.com/chronitis/curseradio.git
+Navigate into the cloned directory:
+
+cd curseradio
+Run the setup script:
+
+
+python3 setup.py install
+Install Dependencies:
+Ensure that Python 3 and the required libraries (requests, xdg, and lxml) are installed. You can install them using pip:
+
+
+pip install requests xdg lxml
+Users should follow these steps based on their preference, and make sure to address any dependencies before running the setup script. This information is helpful for users who want to install Curseradio on their Linux systems.
