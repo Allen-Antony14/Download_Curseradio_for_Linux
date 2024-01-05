@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+curseradio/__init__.py
+curseradio/__main__.py
+curseradio/curseradio.py
+curseradio.egg-info/PKG-INFO
+curseradio.egg-info/SOURCES.txt
+curseradio.egg-info/dependency_links.txt
+curseradio.egg-info/entry_points.txt
+curseradio.egg-info/top_level.txt

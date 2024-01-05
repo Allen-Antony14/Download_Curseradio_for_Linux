@@ -1,0 +1,3 @@
+[console_scripts]
+curseradio = curseradio.__main__:main
+

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: curseradio
+Version: 0.2
+Summary: Curses interface for browsing and playing internet radio
+Home-page: https://github.com/chronitis/curseradio
+Author: Gordon Ball
+Author-email: gordon@chronitis.net
+License: MIT
+Platform: UNKNOWN
+Requires: lxml
+Requires: requests
+Requires: pyxdg
+License-File: LICENSE
+
+UNKNOWN
+
